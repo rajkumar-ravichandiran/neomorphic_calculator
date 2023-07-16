@@ -2,6 +2,8 @@
 
 A neomorphic calculator built using JavaScript, jQuery, and HTML. This calculator features a modern design and includes several user-friendly functionalities.
 
+![To-Do List App](assets/calculator.gif)
+
 ## Features
 
 - **Dark Mode and Light Mode**: Toggle between dark and light modes for a visually pleasing experience. The selected theme mode is saved in the local storage and loaded on page load.
